@@ -1,0 +1,27 @@
+.Logo{
+  text-align: center;
+  color:  crimson;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 400%;
+}
+
+
+
+
+/*
+body{
+  background-color:darkslategray;
+  background-image: url("Images/Fire3.jpg");
+  background-repeat: no-repeat;
+  background-size:  cover;
+  color: whitesmoke;
+}
+*/
+
+body{
+  background-color:black;
+  background-image: url("Images/Fire3.jpg");
+  background-repeat: no-repeat;
+  background-size:  cover;
+  color: gray;
+}
