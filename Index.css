@@ -5,7 +5,11 @@
   font-size: 400%;
 }
 
-
+.Category{
+  text-align: center; 
+  color: crimson;
+  font-size: 190%;
+}
 
 
 /*
@@ -20,7 +24,7 @@ body{
 
 body{
   background-color:black;
-  background-image: url("Images/Fire3.jpg");
+  background-image: url("Images/FireCity.png");
   background-repeat: no-repeat;
   background-size:  cover;
   color: gray;
