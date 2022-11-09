@@ -29,3 +29,8 @@ body{
   background-size:  cover;
   color: gray;
 }
+
+.imgJeu{
+  width: 600px;
+  height: 400px;
+}
